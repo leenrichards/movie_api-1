@@ -10,11 +10,6 @@
 - Node.js;
 - MongoDB.
 
-## 👤 Author
-
-- GitHub: [@orishicha](https://github.com/orishicha)
-- LinkedIn: [Anastasiia Zelenova](https://www.linkedin.com/in/anastasiia-zelenova/)
-
 ## User Goals
 Users should be able to :
 - receive information on movies, directors, and genres so they can learn more about movies they’ve watched or are interested in,
