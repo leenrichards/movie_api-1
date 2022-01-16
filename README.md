@@ -10,6 +10,9 @@
 - Node.js;
 - MongoDB.
 
+## Link to hosted version of the app
+<a href="https://lynnflix.herokuapp.com/" target="_blank"> Check it out!</a>
+
 ## User Goals
 Users should be able to :
 - receive information on movies, directors, and genres so they can learn more about movies they’ve watched or are interested in,
